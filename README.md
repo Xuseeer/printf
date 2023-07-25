@@ -113,4 +113,5 @@ These are all the tasks of this project, the ones that are completed link to the
 
 ### Authors :
 * **Mohamed Yechou** - [ysmohamed98@gmail.com](https://github.com/Xuseeer)
+  **Dekhissi Rim** - [rimdekhissi@outlook.fr] (https://github.com/rimdekhissi)
 * **
